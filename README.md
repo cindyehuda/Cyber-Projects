@@ -4,7 +4,7 @@ This README provides an overview of SOC reports, their purpose, and
 their relevance for organizations seeking to demonstrate security,
 availability, processing integrity, confidentiality, and privacy
 controls.
-![description](images/wireshark_to_git.png)
+
 
 
 
